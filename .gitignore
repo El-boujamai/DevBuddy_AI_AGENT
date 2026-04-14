@@ -1,0 +1,6 @@
+﻿.env
+*.env
+devbuddy_*.json
+__pycache__/
+venv/
+*.pyc
